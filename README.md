@@ -1,1 +1,2 @@
 # odin-recipes
+My first project, which will allow me to demonstrate all my HTML knowledge I've acquired so far. I will be building a basic recipe website. It will consist of a main index page which will have links to a few recipes. I can do this!!
